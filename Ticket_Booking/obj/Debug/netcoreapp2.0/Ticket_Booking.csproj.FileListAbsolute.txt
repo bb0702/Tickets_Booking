@@ -1,0 +1,11 @@
+/Users/Mac/Projects/Ticket_Booking/Ticket_Booking/bin/Debug/netcoreapp2.0/Ticket_Booking.deps.json
+/Users/Mac/Projects/Ticket_Booking/Ticket_Booking/bin/Debug/netcoreapp2.0/Ticket_Booking.runtimeconfig.json
+/Users/Mac/Projects/Ticket_Booking/Ticket_Booking/bin/Debug/netcoreapp2.0/Ticket_Booking.runtimeconfig.dev.json
+/Users/Mac/Projects/Ticket_Booking/Ticket_Booking/bin/Debug/netcoreapp2.0/Ticket_Booking.dll
+/Users/Mac/Projects/Ticket_Booking/Ticket_Booking/bin/Debug/netcoreapp2.0/Ticket_Booking.pdb
+/Users/Mac/Projects/Ticket_Booking/Ticket_Booking/obj/Debug/netcoreapp2.0/Ticket_Booking.csprojResolveAssemblyReference.cache
+/Users/Mac/Projects/Ticket_Booking/Ticket_Booking/obj/Debug/netcoreapp2.0/Ticket_Booking.csproj.CoreCompileInputs.cache
+/Users/Mac/Projects/Ticket_Booking/Ticket_Booking/obj/Debug/netcoreapp2.0/Ticket_Booking.AssemblyInfoInputs.cache
+/Users/Mac/Projects/Ticket_Booking/Ticket_Booking/obj/Debug/netcoreapp2.0/Ticket_Booking.AssemblyInfo.cs
+/Users/Mac/Projects/Ticket_Booking/Ticket_Booking/obj/Debug/netcoreapp2.0/Ticket_Booking.dll
+/Users/Mac/Projects/Ticket_Booking/Ticket_Booking/obj/Debug/netcoreapp2.0/Ticket_Booking.pdb
